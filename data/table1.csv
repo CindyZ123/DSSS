@@ -1,0 +1,16 @@
+﻿Type,Name,Variable name in model,Data Cleaning
+Independent variables,Crime Rate,Crime_rate2021,Standardisation
+Dependent variable,Degree of deprivation,deprived_in_one_dimension,Standardisation
+Dependent variable,Degree of deprivation,deprived_in_two_dimensions,Standardisation
+Dependent variable,Degree of deprivation,deprived_in_three_dimensions,Standardisation
+Dependent variable,Degree of deprivation,deprived_in_four_dimensions,Standardisation
+Dependent variable,Degree of deprivation,not_deprived,Standardisation
+Dependent variable,Station density,lsoa_bus_counts,Standardisation
+Dependent variable,Residents aged 65 and over,aged_65_years_and_over,Standardisation
+Dependent variable,Population density,Population_Density,Standardisation
+Dependent variable,Bar density,lsoa_pubs_counts,Standardisation
+Dependent variable,Ethnic group,Ethnic_group_Asian,Standardisation
+Dependent variable,Ethnic group,Ethnic_group_Black,Standardisation
+Dependent variable,Ethnic group,Ethnic_group_White,Standardisation
+Dependent variable,Unemployment,Never_worked_and_long_term_unemployed,Standardisation
+Dependent variable,Student,Full_time_students,Standardisation
