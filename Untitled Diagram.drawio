@@ -1,9 +1,286 @@
-<mxfile host="app.diagrams.net" modified="2023-08-07T20:15:24.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="sNDvculCdmAUi1wh59se" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-07T21:25:35.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="A0PeXqbU-htTzUJVMaS9" version="21.6.6" type="github">
   <diagram name="Page-1" id="EllKu3JdDMA9Aqnl0Kva">
-    <mxGraphModel>
+    <mxGraphModel dx="2438" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-111" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="80" width="780" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-105" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Step 1&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-111">
+          <mxGeometry y="70" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-107" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Step 2&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-111">
+          <mxGeometry y="210" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-108" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Step 3&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-111">
+          <mxGeometry y="490" width="50" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-109" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Step 4&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-111">
+          <mxGeometry y="700" width="50" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-110" value="" style="group" vertex="1" connectable="0" parent="RMV1_OSui-YwxQkxFpcB-111">
+          <mxGeometry x="60" width="720" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-68" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Gentrification&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;LSOA&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry y="700" width="90" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;All LSOA&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry y="70" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Four Scenarios&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;gradientColor=#E6E6E6;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="70" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-1" target="RMV1_OSui-YwxQkxFpcB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="50" as="sourcePoint" />
+            <mxPoint x="330" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-4" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Scalling and&amp;nbsp;standardisation：Min-Max Normalisation&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="260" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;PCA&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;gradientColor=#FFCE9F;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="290" y="70" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-3" target="RMV1_OSui-YwxQkxFpcB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-9" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;PCs with ascending characteristics were used as the primary basis, and the Z-Score value of the total PCA score was used as a supplementary basis to judge community change jointly.&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;verticalAlign=middle;gradientColor=#FFF2CC;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="390" y="70" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-8" target="RMV1_OSui-YwxQkxFpcB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Ascent&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="610" y="70" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Stable&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="610" y="110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Descent&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="610" y="150" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-25" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="600" y="80" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Ascent LSOA&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry y="210" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-29" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-12" target="RMV1_OSui-YwxQkxFpcB-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="85" />
+              <mxPoint x="720" y="190" />
+              <mxPoint x="45" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Selection of 13 factors and 2 status Variable&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;gradientColor=#E6E6E6;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="210" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-26" target="RMV1_OSui-YwxQkxFpcB-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Two Scenarios&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;gradientColor=#E6E6E6;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="280" y="210" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-30" target="RMV1_OSui-YwxQkxFpcB-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-36" value="&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Standardisation：&lt;/font&gt;Box-Cox &lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;and&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: DengXian;&quot; lang=&quot;EN-US&quot;&gt;&amp;nbsp;Yeo-Johnson Power&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Scalling: Z-Score and&amp;nbsp;&lt;/font&gt;&lt;/span&gt;Robust Scaler (inter-decile range)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="340" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.857;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-36" target="RMV1_OSui-YwxQkxFpcB-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="340" as="sourcePoint" />
+            <mxPoint x="250" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;K-Means&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="390" y="210" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-33" target="RMV1_OSui-YwxQkxFpcB-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-40" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;Performance testing using the Calinski-Harabasz Index&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Calculating K-values using Scikit_learn&#39;s Silhouette score&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="390" y="340" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-42" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Evaluation of Cluster&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="500" y="210" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-43" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Gentrifica&lt;br&gt;tion&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="610" y="210" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-44" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Non -Gentrifica&lt;br&gt;tion&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;rounded=0;align=center;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="610" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-45" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="600" y="230" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-46" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="590" y="260" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-48" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="590" y="125" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-49" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-43" target="RMV1_OSui-YwxQkxFpcB-51">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695" y="227.5" as="sourcePoint" />
+            <mxPoint x="50" y="352.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="228" />
+              <mxPoint x="720" y="228" />
+              <mxPoint x="720" y="460" />
+              <mxPoint x="45" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.15;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-40" target="RMV1_OSui-YwxQkxFpcB-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="340" as="sourcePoint" />
+            <mxPoint x="475.71428571428555" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-51" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Gentrification&lt;br&gt;LSOA&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;gradientColor=#FFB366;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry y="490" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-56" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Compared with predicted Gentrification LSOA&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="490" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-51" target="RMV1_OSui-YwxQkxFpcB-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-57" value="&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Using Gwet&#39;s AC1, Cohen&#39;s Kappa and Confusion Matrices&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="620" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="600" as="sourcePoint" />
+            <mxPoint x="190" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-59" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Explore spatial differences&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFF2CC;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="290" y="490" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-64" value="&lt;b&gt;Labelled predicted non-gentrification, but gentrification actually occurred LSOA&lt;/b&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="400" y="490" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-65" value="&lt;b&gt;Labelled predicted gentrification, but non-gentrification actually occurred LSOA&lt;/b&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="400" y="550" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-66" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="390" y="510" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-67" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="380" y="540" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-56" target="RMV1_OSui-YwxQkxFpcB-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#7EA6E0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-51" target="RMV1_OSui-YwxQkxFpcB-68">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="690" as="sourcePoint" />
+            <mxPoint x="380" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-74" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;Selection of 14 factors&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;gradientColor=#E6E6E6;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="700" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-75" value="&lt;div style=&quot;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;Using Yeo-Johnson Power and RobustScale&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;dashed=1;spacingLeft=-21;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="860" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-77" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Logic Regression Model&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="274" y="700" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-78" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Testing for heterogeneity of key factors&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="450" y="700" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-79" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-size: 14px;&quot;&gt;Selection of 16 factors&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;gradientColor=#E6E6E6;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="770" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;M&lt;/b&gt;&lt;b&gt;ultiple Linear&lt;/b&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;Regression Model&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="274" y="770" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-83" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="110" y="730" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-84" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="90" y="760" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-85" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-74" target="RMV1_OSui-YwxQkxFpcB-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="730" as="sourcePoint" />
+            <mxPoint x="370" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-86" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-79" target="RMV1_OSui-YwxQkxFpcB-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="730" as="sourcePoint" />
+            <mxPoint x="370" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-87" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-77" target="RMV1_OSui-YwxQkxFpcB-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="730" as="sourcePoint" />
+            <mxPoint x="370" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-88" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 14px;&quot;&gt;Exploring the dominant factors affecting gentrification&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="450" y="770" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-80" target="RMV1_OSui-YwxQkxFpcB-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="730" as="sourcePoint" />
+            <mxPoint x="370" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-90" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="120" y="690" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-75" target="RMV1_OSui-YwxQkxFpcB-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-92" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;GWR Models&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;rounded=0;gradientColor=#FFCE9F;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="274" y="850" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-94" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 13px;&quot;&gt;Exploring Spatial Patterns of Gentrification&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=none;gradientColor=#97D077;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="450" y="850" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-94" target="RMV1_OSui-YwxQkxFpcB-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-92" target="RMV1_OSui-YwxQkxFpcB-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="770" as="sourcePoint" />
+            <mxPoint x="370" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-98" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="661.25" y="538.75" width="70" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-100" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="RMV1_OSui-YwxQkxFpcB-110">
+          <mxGeometry x="620.63" y="798.13" width="151.25" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-104" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#7EA6E0;strokeWidth=2;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" target="RMV1_OSui-YwxQkxFpcB-100">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702.47" y="538.13" as="sourcePoint" />
+            <mxPoint x="57.47" y="798.13" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="703" y="536" />
+              <mxPoint x="720" y="536" />
+              <mxPoint x="720" y="804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RMV1_OSui-YwxQkxFpcB-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RMV1_OSui-YwxQkxFpcB-110" source="RMV1_OSui-YwxQkxFpcB-80" target="RMV1_OSui-YwxQkxFpcB-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
